@@ -1,0 +1,3 @@
+--> Em qual tabela colocar a unidade de medida dos produtos e como consultar essa informação.
+--> O atributo data de validade ficaria em qual tabela.
+--> Que sugestão você daria para armazenar os dados de estoque e das despesas e gastos.
