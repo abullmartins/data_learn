@@ -1,4 +1,6 @@
-# Mercearia Hard Software
+# Mercearia Hard Software (Student Project)
+
+*This project is part of my learning journey in programming.*
 
 ## Project Overview
 This project has been reorganized into a standard Maven project structure to follow Java best practices. It includes a Swing-based GUI for managing a grocery store (Mercearia).
