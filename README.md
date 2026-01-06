@@ -1,6 +1,13 @@
-# Mercearia Hard Software (Student Project)
+🧠 O que você vai encontrar aqui
 
-*This project is part of my learning journey in programming.*
+## 📂 Projetos
+
+### 🛒 [Sistema de Mercearia (Java)](projects/mercearia_java)
+Um sistema desktop para gerenciamento de mercearia desenvolvido em Java.
+- **Localização**: `projects/mercearia_java`
+- **Tecnologias**: Java 8, Swing/AWT, MySQL, Maven.
+
+Exercícios básicos de lógica de programação
 
 ## Project Overview
 This project has been reorganized into a standard Maven project structure to follow Java best practices. It includes a Swing-based GUI for managing a grocery store (Mercearia).
